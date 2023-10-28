@@ -6,7 +6,7 @@
 Я начинающий Backend разработчик. Мой путь в IT начался с курсов на Stepik, где я открыл для себя Python. Завершив курс я захотел узнать больше и начал погружаться и проходить курсы один за одним : HTML & CSS, Linux, Junior QA и т. д. В настоящий момент времени я продолжаю совершенствовать свои знания и открывать для себя новое!
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="github-snake (1).svg" alt="snake"/>
 </p>
 
 
