@@ -62,4 +62,4 @@
 
 ### 💻 Codewars:
 
-[codewars](https://www.codewars.com/users/Astronaut3472)
+![codewars](https://www.codewars.com/users/Astronaut3472/badges/large)
