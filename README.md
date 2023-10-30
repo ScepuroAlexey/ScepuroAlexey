@@ -10,6 +10,7 @@
 </p>
 
 ---
+### 💻 Codewars:
 [![codewars](https://www.codewars.com/users/Astronaut3472/badges/large)](https://www.codewars.com/users/Astronaut3472)
 ---
 
@@ -60,7 +61,3 @@
 | stepik.org/Программирование на Python                           | 04/2022 - 10/2022 |
 | stepik.org/Junior QA| Инженер по тестированию ПО                | 05/2023 - 07/2023 |
 | practicum.yandex/Основы работы с Git                            | 09/2022 - 10/2022 |
-
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/Astronaut3472/badges/large)
