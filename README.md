@@ -9,7 +9,8 @@
  <img width="600" src="github-snake (1).svg" alt="snake"/>
 </p>
 
-
+---
+[![codewars](https://www.codewars.com/users/Astronaut3472/badges/large)](https://www.codewars.com/users/Astronaut3472)
 ---
 
 ### 🤝 Социальные сети:
